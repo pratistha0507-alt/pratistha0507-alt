@@ -1,4 +1,4 @@
-# Hi, I'm Pratistha Aggarwal 👋
+# Hi, I'm Pratistha Aggarwal 
 
 ### CSE (AI & ML) Undergraduate | Python | Machine Learning | AI Application Development
 
@@ -8,7 +8,7 @@ I enjoy building practical projects, exploring machine learning techniques and d
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming Languages**
 - Python
@@ -29,7 +29,7 @@ I enjoy building practical projects, exploring machine learning techniques and d
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. Plant Disease Detection Web Application
 An image-based plant disease classification application.
@@ -58,7 +58,7 @@ A Java command-line application that converts Markdown files into linked HTML pa
 
 ---
 
-## 🏆 Hackathon Experience
+##  Hackathon Experience
 
 **PowerPulse Delhi – AI-Based Electricity Demand Prediction**
 
@@ -70,14 +70,14 @@ A Java command-line application that converts Markdown files into linked HTML pa
 
 ---
 
-## 🤝 Beyond Coding
+##  Beyond Coding
 
 - Photography & Videography Media Team Member – Computer Society of India (CSI), VIT Bhopal.
 - Interested in technology, creative problem-solving and collaborative projects.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - **LinkedIn:** [Pratistha Aggarwal](https://www.linkedin.com/in/pratistha-aggarwal/)
 - **GitHub:** [@pratistha0507-alt](https://github.com/pratistha0507-alt)
